@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![image](C:\Users\carol\OneDrive\Desktop\ReadmeProfile\Untitled (1000 × 300 px) (1700 × 750 px) (6).png)
+![Image Description](https://raw.githubusercontent.com/carolwargo/carolwargo/main/Untitled%20%281000%20%C3%97%20300%20px%29%20%281700%20%C3%97%20750%20px%29%20%286%29.png)
+
 
 
 <!--
