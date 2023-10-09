@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Image Description](Untitled (1000 × 300 px) (1700 × 750 px) (6).png)
+![Image Description]([Untitled (1000 × 300 px) (1700 × 750 px) (6).png](https://github.com/carolwargo/carolwargo/blob/main/Untitled%20(1000%20%C3%97%20300%20px)%20(1700%20%C3%97%20750%20px)%20(6).png))
 
 
 
