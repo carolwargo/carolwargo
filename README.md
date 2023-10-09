@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://www.canva.com/design/DAFtxZMmQzA/view
+
 ![Image Description](https://www.canva.com/design/DAFtxZMmQzA/view)
 
 
