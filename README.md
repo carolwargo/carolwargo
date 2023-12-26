@@ -1,7 +1,5 @@
-### **Carol Wargo**
+## **Carol Wargo**
 _Full Stack Software Developer | UX/UI Designer_
-
- ✨ _Welcome to my GitHub Page!_ ✨ 
 
 ### **Contact Information**
 - ☎️ [+(443) 771-1726](tel:+4437711726)
