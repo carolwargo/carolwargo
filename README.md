@@ -1,5 +1,5 @@
-# Carol Wargo
-## _Full Stack Software Developer | UX/UI Designer_
+**Carol Wargo**
+_Full Stack Software Developer | UX/UI Designer_
 
  ✨ _Welcome to my GitHub Page!_ ✨ 
 
