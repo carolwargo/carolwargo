@@ -1,9 +1,9 @@
 _Hello,👩🏼‍💻 my name is **Carol Wargo.**_ ✨ _Welcome to my GitHub Page!_ ✨ .
 🎨⚙️🖇️
 ### **Contact Information**
-- ☎️ 🖁 ![Phone](https://raw.githubusercontent.com/yourusername/yourrepository/main/phone.svg)
-- ✉️ ![Email](https://raw.githubusercontent.com/yourusername/yourrepository/main/email.svg)
-- 🌐 ![Web](https://raw.githubusercontent.com/yourusername/yourrepository/main/web.svg)
+- ☎️ 🖁 !(https://raw.githubusercontent.com/yourusername/yourrepository/main/phone.svg)
+- ✉️ !(https://raw.githubusercontent.com/yourusername/yourrepository/main/email.svg)
+- 🌐 !(https://raw.githubusercontent.com/yourusername/yourrepository/main/web.svg)
 
 
 - 🔭 I’m currently working on ...
