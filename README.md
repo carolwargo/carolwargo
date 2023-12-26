@@ -1,4 +1,5 @@
-## _Hello,👩🏼‍💻 my name is **Carol Wargo.**_ ✨ _Welcome to my GitHub Page!_ ✨ .
+ _Hello,👩🏼‍💻 my name is **Carol Wargo.**_ 
+ ## ✨ _Welcome to my GitHub Page!_ ✨ .
 🎨⚙️🖇️
 ### **Contact Information**
 - ☎️ Phone: [+(443) 771-1726](tel:+4437711726)
