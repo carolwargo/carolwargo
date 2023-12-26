@@ -1,4 +1,6 @@
-## **CAROL WARGO**
+## **WELCOME!**
+
+CAROL WARGO
 _Full Stack Software Developer | UX/UI Designer_
 
 ### **CONTACT INFORMATION**
